@@ -1,6 +1,6 @@
-package com.example.luggar.dto;
+package com.example.luggar.user.dto;
 
-import com.example.luggar.enums.Role;
+import com.example.luggar.user.enums.Role;
 
 public record UserResponse (
     Long id,

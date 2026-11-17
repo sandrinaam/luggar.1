@@ -1,8 +1,7 @@
-package com.example.luggar.mapper;
+package com.example.luggar.user;
 
-import com.example.luggar.dto.UserRequest;
-import com.example.luggar.dto.UserResponse;
-import com.example.luggar.entity.User;
+import com.example.luggar.user.dto.UserRequest;
+import com.example.luggar.user.dto.UserResponse;
 import org.springframework.stereotype.Component;
 
 @Component

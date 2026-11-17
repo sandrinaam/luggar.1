@@ -1,4 +1,4 @@
-package com.example.luggar.exception;
+package com.example.luggar.common.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {

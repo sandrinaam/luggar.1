@@ -1,4 +1,4 @@
-package com.example.luggar.enums;
+package com.example.luggar.user.enums;
 
 public enum Role {
     CLIENT,

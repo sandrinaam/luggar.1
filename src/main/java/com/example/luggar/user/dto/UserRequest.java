@@ -1,6 +1,6 @@
-package com.example.luggar.dto;
+package com.example.luggar.user.dto;
 
-import com.example.luggar.enums.Role;
+import com.example.luggar.user.enums.Role;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

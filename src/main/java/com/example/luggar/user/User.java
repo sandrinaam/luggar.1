@@ -1,6 +1,6 @@
-package com.example.luggar.entity;
+package com.example.luggar.user;
 
-import com.example.luggar.enums.Role;
+import com.example.luggar.user.enums.Role;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
